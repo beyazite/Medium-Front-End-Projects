@@ -1,0 +1,15 @@
+{
+  "name": "basic-react-project-1",
+  "version": "1.0.0",
+  "description": "patika.dev-basic-react-project-1",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "startt": "node main.js"
+  },
+  "author": "Enis Beyazıt enisbyzt@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
